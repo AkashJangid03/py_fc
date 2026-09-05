@@ -38,3 +38,5 @@ def absence(employee, total_days):
 for employee in employees: 
     print("\nEmployee: ", employee["employee_name"])
     print("Total hours of working: ", total_hours(employee)) 
+    print("Absence: ", absence(employee, 5))
+    
