@@ -1,0 +1,10 @@
+Every module in python in can be identified uniquely identical
+
+python --version
+Python 3.14.7
+
+import numpy
+print(numpy.__version__)
+2.5.3
+
+Definition: NumPy Array is a collection os elemnets arranged in one or more dimensions. 
