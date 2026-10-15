@@ -1,0 +1,162 @@
+[
+    {
+        "StudentID": 101,
+        "Name": "Amit",
+        "Department": "MCA",
+        "Marks": 78,
+        "Attendance": 85,
+        "City": "Pune"
+    },
+    {
+        "StudentID": 102,
+        "Name": "Riya",
+        "Department": "MCA",
+        "Marks": 92,
+        "Attendance": 92,
+        "City": "Mumbai"
+    },
+    {
+        "StudentID": 103,
+        "Name": "Neha",
+        "Department": "MSc",
+        "Marks": 65,
+        "Attendance": 78,
+        "City": "Pune"
+    },
+    {
+        "StudentID": 104,
+        "Name": "Rahul",
+        "Department": "MSc",
+        "Marks": 88,
+        "Attendance": 88,
+        "City": "Nashik"
+    },
+    {
+        "StudentID": 105,
+        "Name": "Sneha",
+        "Department": "MCA",
+        "Marks": 55,
+        "Attendance": 60,
+        "City": "Pune"
+    },
+    {
+        "StudentID": 106,
+        "Name": "Akshay",
+        "Department": "MCA",
+        "Marks": 81,
+        "Attendance": 90,
+        "City": "Mumbai"
+    },
+    {
+        "StudentID": 107,
+        "Name": "Priya",
+        "Department": "MSc",
+        "Marks": 73,
+        "Attendance": 82,
+        "City": "Satara"
+    },
+    {
+        "StudentID": 108,
+        "Name": "Rohit",
+        "Department": "MCA",
+        "Marks": 69,
+        "Attendance": 75,
+        "City": "Pune"
+    },
+    {
+        "StudentID": 109,
+        "Name": "Anjali",
+        "Department": "MSc",
+        "Marks": 95,
+        "Attendance": 96,
+        "City": "Mumbai"
+    },
+    {
+        "StudentID": 110,
+        "Name": "Karan",
+        "Department": "MCA",
+        "Marks": 62,
+        "Attendance": 70,
+        "City": "Nashik"
+    },
+    {
+        "StudentID": 111,
+        "Name": "Pooja",
+        "Department": "MSc",
+        "Marks": 84,
+        "Attendance": 89,
+        "City": "Pune"
+    },
+    {
+        "StudentID": 112,
+        "Name": "Aditya",
+        "Department": "MCA",
+        "Marks": 77,
+        "Attendance": 80,
+        "City": "Mumbai"
+    },
+    {
+        "StudentID": 113,
+        "Name": "Meena",
+        "Department": "MSc",
+        "Marks": 58,
+        "Attendance": 65,
+        "City": "Satara"
+    },
+    {
+        "StudentID": 114,
+        "Name": "Vikas",
+        "Department": "MCA",
+        "Marks": 90,
+        "Attendance": 94,
+        "City": "Pune"
+    },
+    {
+        "StudentID": 115,
+        "Name": "Swati",
+        "Department": "MSc",
+        "Marks": 71,
+        "Attendance": 79,
+        "City": "Nashik"
+    },
+    {
+        "StudentID": 116,
+        "Name": "Manish",
+        "Department": "MCA",
+        "Marks": 66,
+        "Attendance": 72,
+        "City": "Mumbai"
+    },
+    {
+        "StudentID": 117,
+        "Name": "Kavita",
+        "Department": "MSc",
+        "Marks": 87,
+        "Attendance": 91,
+        "City": "Pune"
+    },
+    {
+        "StudentID": 118,
+        "Name": "Sagar",
+        "Department": "MCA",
+        "Marks": 74,
+        "Attendance": 83,
+        "City": "Satara"
+    },
+    {
+        "StudentID": 119,
+        "Name": "Neelam",
+        "Department": "MSc",
+        "Marks": 93,
+        "Attendance": 95,
+        "City": "Mumbai"
+    },
+    {
+        "StudentID": 120,
+        "Name": "Varun",
+        "Department": "MCA",
+        "Marks": 59,
+        "Attendance": 68,
+        "City": "Pune"
+    }
+]
